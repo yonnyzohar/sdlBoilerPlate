@@ -15,7 +15,7 @@
 
 class GameObject{
 public:
-    GameObject(AtlasObj *o, int w, int h);
+    GameObject(AtlasObj *o, int x, int y, int w, int h);
     ~GameObject();
     virtual void update();
     void render();

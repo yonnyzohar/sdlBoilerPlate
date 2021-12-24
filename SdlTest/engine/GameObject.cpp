@@ -6,7 +6,7 @@
 //
 #include "GameObject.hpp"
 
-GameObject::GameObject(AtlasObj *o, int w, int h)
+GameObject::GameObject(AtlasObj *o, int x, int y, int w, int h)
 {
     atlas = o;
     Json::Value data = o->data["frames"]["IDLE_E0000"]["frame"];
@@ -16,8 +16,8 @@ GameObject::GameObject(AtlasObj *o, int w, int h)
     srcRect.w = data["w"].asInt();
     srcRect.h = data["h"].asInt();
     
-    destRect.x = 0;
-    destRect.y = 0;
+    destRect.x = x;
+    destRect.y = y;
     destRect.w = w;
     destRect.h = h;
     

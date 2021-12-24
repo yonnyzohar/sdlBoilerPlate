@@ -20,6 +20,7 @@ public:
     void draw() override;
     void onloaded() override;
     Man* player;
+    Man* player2;
       
 private:
 };

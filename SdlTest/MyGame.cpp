@@ -10,15 +10,7 @@
 
 
 
-void MyGame::update()
-{
-    player->update();
-}
 
-void MyGame::draw()
-{
-    player->render();
-}
 void MyGame::onloaded()
 {
     
@@ -33,5 +25,19 @@ void MyGame::onloaded()
     
     //std::cout << "this is my json " <<  << std::endl;
     
-    player = new Man(o, 50, 50);
+    player = new Man(o, 0,0, 50, 50);
+    player2 = new Man(o, 0,50, 50, 50);
+}
+
+
+void MyGame::update()
+{
+    player->update();
+    player2->update();
+}
+
+void MyGame::draw()
+{
+    player->render();
+    player2->render();
 }
