@@ -10,8 +10,7 @@
 
 #include <stdio.h>
 #include "Game.hpp"
-
-
+#include "Man.hpp"
 
 
 class MyGame : public Game
@@ -20,7 +19,7 @@ public:
     void update() override;
     void draw() override;
     void onloaded() override;
-    GameObject* player;
+    Man* player;
       
 private:
 };

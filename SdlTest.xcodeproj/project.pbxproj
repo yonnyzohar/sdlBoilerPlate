@@ -31,6 +31,7 @@
 		40DDADAC2775EE0D009654E8 /* json.h in Sources */ = {isa = PBXBuildFile; fileRef = 40DDADA22775EE0D009654E8 /* json.h */; };
 		40DDADAD2775EE0D009654E8 /* reader.h in Sources */ = {isa = PBXBuildFile; fileRef = 40DDADA32775EE0D009654E8 /* reader.h */; };
 		40DDADAE2775EE0D009654E8 /* writer.h in Sources */ = {isa = PBXBuildFile; fileRef = 40DDADA42775EE0D009654E8 /* writer.h */; };
+		40DDADB72776068C009654E8 /* Man.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 40DDADB52776068C009654E8 /* Man.cpp */; };
 		40FEB4D327750B1500594C10 /* SDL2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 40FEB4D227750B1500594C10 /* SDL2.framework */; };
 /* End PBXBuildFile section */
 
@@ -90,6 +91,8 @@
 		40DDADA32775EE0D009654E8 /* reader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = reader.h; sourceTree = "<group>"; };
 		40DDADA42775EE0D009654E8 /* writer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = writer.h; sourceTree = "<group>"; };
 		40DDADB22775FCC6009654E8 /* AtlasObj.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AtlasObj.hpp; sourceTree = "<group>"; };
+		40DDADB52776068C009654E8 /* Man.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Man.cpp; sourceTree = "<group>"; };
+		40DDADB62776068C009654E8 /* Man.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Man.hpp; sourceTree = "<group>"; };
 		40FEB4D227750B1500594C10 /* SDL2.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SDL2.framework; path = ../../../../../Library/Frameworks/SDL2.framework; sourceTree = "<group>"; };
 		40FEB4D4277510A700594C10 /* SdlTest.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SdlTest.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -127,21 +130,15 @@
 		408F1B152774FF3F0027ADC0 /* SdlTest */ = {
 			isa = PBXGroup;
 			children = (
+				40DDADB427760637009654E8 /* engine */,
 				40DDADAF2775EEDE009654E8 /* json */,
 				40DDAD1D2775216E009654E8 /* assets */,
 				40FEB4D4277510A700594C10 /* SdlTest.entitlements */,
 				408F1B162774FF3F0027ADC0 /* main.cpp */,
-				40DDAD1827751882009654E8 /* Game.cpp */,
-				40DDAD1927751882009654E8 /* Game.hpp */,
-				40DDAD592775B5D9009654E8 /* TextureManager.cpp */,
-				40DDAD5A2775B5D9009654E8 /* TextureManager.hpp */,
-				40DDAD5C2775B918009654E8 /* GameObject.cpp */,
-				40DDAD5D2775B918009654E8 /* GameObject.hpp */,
 				40DDAD5F2775BC01009654E8 /* MyGame.cpp */,
 				40DDAD602775BC01009654E8 /* MyGame.hpp */,
-				40DDAD622775DA81009654E8 /* JsonHandler.cpp */,
-				40DDAD632775DA81009654E8 /* JsonHandler.hpp */,
-				40DDADB22775FCC6009654E8 /* AtlasObj.hpp */,
+				40DDADB52776068C009654E8 /* Man.cpp */,
+				40DDADB62776068C009654E8 /* Man.hpp */,
 			);
 			path = SdlTest;
 			sourceTree = "<group>";
@@ -192,6 +189,22 @@
 				40DDAD1F2775218B009654E8 /* asset.png */,
 			);
 			path = man;
+			sourceTree = "<group>";
+		};
+		40DDADB427760637009654E8 /* engine */ = {
+			isa = PBXGroup;
+			children = (
+				40DDAD1827751882009654E8 /* Game.cpp */,
+				40DDAD1927751882009654E8 /* Game.hpp */,
+				40DDAD592775B5D9009654E8 /* TextureManager.cpp */,
+				40DDAD5A2775B5D9009654E8 /* TextureManager.hpp */,
+				40DDAD5C2775B918009654E8 /* GameObject.cpp */,
+				40DDAD5D2775B918009654E8 /* GameObject.hpp */,
+				40DDAD622775DA81009654E8 /* JsonHandler.cpp */,
+				40DDAD632775DA81009654E8 /* JsonHandler.hpp */,
+				40DDADB22775FCC6009654E8 /* AtlasObj.hpp */,
+			);
+			path = engine;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -263,6 +276,7 @@
 				40DDADA82775EE0D009654E8 /* value.h in Sources */,
 				40DDADA92775EE0D009654E8 /* version.h in Sources */,
 				40DDADAA2775EE0D009654E8 /* config.h in Sources */,
+				40DDADB72776068C009654E8 /* Man.cpp in Sources */,
 				40DDADAB2775EE0D009654E8 /* forwards.h in Sources */,
 				40DDADAC2775EE0D009654E8 /* json.h in Sources */,
 				40DDADAD2775EE0D009654E8 /* reader.h in Sources */,

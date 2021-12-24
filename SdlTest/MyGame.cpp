@@ -33,5 +33,5 @@ void MyGame::onloaded()
     
     //std::cout << "this is my json " <<  << std::endl;
     
-    player = new GameObject(o, 50, 50);
+    player = new Man(o, 50, 50);
 }
