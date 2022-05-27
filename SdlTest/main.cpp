@@ -6,11 +6,12 @@
 ///Library/Frameworks/SDL2.framework/Versions/A/Headers/
 
 #include "MyGame.hpp"
+#include "BattleZone.hpp"
 #include <iostream>
 
 
 
-Game *game = nullptr;
+BattleZone *game = nullptr;
 
 //setting up basis sdl window
 //https://www.youtube.com/watch?v=lHAUc6F_B3Y
@@ -21,26 +22,26 @@ Game *game = nullptr;
 int main() {
 
     
-    const int fps = 60;
+    const int fps = 30;
     const int frameDelay = 1000 / fps;
     Uint32 frameStart;
-    int frameTime;
+    int frameTime = 0;
     
-    game = new MyGame();
-    game->init("yonny", 0, 0, 800, 600, false);
+    game = new BattleZone();
+    game->init("yonny", 0, 0, 1136, 640, false);
     while(game->running())
     {
         frameStart = SDL_GetTicks();
         game->handleEvents();
-        game->update();
-        game->render();
+        game->update(frameTime);
+        game->render(frameTime);
         
         frameTime = SDL_GetTicks() - frameStart;
         
         //this maintains 60 fps
         if(frameTime < frameDelay)
         {
-            SDL_Delay(frameDelay - frameTime);
+           SDL_Delay(frameDelay - frameTime);
         }
         
     }

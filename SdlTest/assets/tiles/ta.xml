@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ta.png">
+	<SubTexture name="grass0000" x="2" y="2" width="20" height="20"/>
+	<SubTexture name="grass0001" x="24" y="2" width="20" height="20"/>
+	<SubTexture name="grass0002" x="46" y="2" width="20" height="20"/>
+	<SubTexture name="grass0003" x="68" y="2" width="20" height="20"/>
+	<SubTexture name="grass0004" x="90" y="2" width="20" height="20"/>
+	<SubTexture name="grass0005" x="2" y="24" width="20" height="20"/>
+	<SubTexture name="grass0006" x="24" y="24" width="20" height="20"/>
+	<SubTexture name="grass0007" x="46" y="24" width="20" height="20"/>
+	<SubTexture name="grass0008" x="68" y="24" width="20" height="20"/>
+	<SubTexture name="grass0009" x="90" y="24" width="20" height="20"/>
+	<SubTexture name="water0000" x="2" y="46" width="21" height="20"/>
+	<SubTexture name="water0001" x="25" y="46" width="21" height="20"/>
+	<SubTexture name="water0002" x="48" y="46" width="21" height="20"/>
+</TextureAtlas>

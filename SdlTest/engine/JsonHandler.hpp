@@ -16,9 +16,11 @@
 #include "reader.h"
 #include "value.h"
 
+
+
 class JsonHandler{
 public:
-    static void loadJson(const char* src, Json::Value *data);
+    static void loadJson(std::string src, Json::Value *data);
 
 };
 

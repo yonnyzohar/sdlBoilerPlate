@@ -7,7 +7,3 @@
 
 #include "Man.hpp"
 
-void Man::update()
-{
-    destRect.x++;
-}

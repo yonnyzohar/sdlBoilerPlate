@@ -9,20 +9,51 @@
 #define MyGame_hpp
 
 #include <stdio.h>
+#include <vector>
+#include <map>
+#include <string>
 #include "Game.hpp"
 #include "Man.hpp"
+#include "Utilities.hpp"
+#include "Keybaord.hpp"
+#include "Settings.hpp"
+
 
 
 class MyGame : public Game
 {
 public:
-    void update() override;
-    void draw() override;
+    //using Game::Game;
+    MyGame();
+    ~MyGame();
+    void update(int dt) override;
+    void draw(int dt) override;
     void onloaded() override;
-    Man* player;
-    Man* player2;
+    void moveHero();
+    
+    
+    
+    int mapW = 1000;
+    int mapH = 1000;
+    int numParticles = 300;
+    float heroInfluence = 100.0f;
+    int blockSize;  
+    float runSpeed = 6.0f;
+    float manRad = 15.0f;
+    std::string dir = "S";
+    std::string prevState;
+    int numRows;
+    int numCols;
+    std::map<std::string, std::vector<Man*>> gridMap;
+    std::vector<Man*> deltaArr;
+    Man* hero;
+    bool ready = false;
+    void moveParticles(Man* o, bool fromHero);
       
 private:
+    void begin();
+    std::vector< std::vector<GameObject*>> tiles;
+    
 };
 
 #endif /* MyGame_hpp */

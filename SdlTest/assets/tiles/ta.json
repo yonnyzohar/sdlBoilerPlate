@@ -1,0 +1,329 @@
+{
+    "meta":
+    {
+        "size":
+        {
+            "w": 128,
+            "h": 128
+        },
+        "scale": "1",
+        "image": "ta.png",
+        "format": "RGBA8888",
+        "numZeros" : 4
+    },
+    "frames":
+    {
+        "water0001":
+        {
+            "spriteSourceSize":
+            {
+                "w": 21,
+                "x": 0,
+                "h": 20,
+                "y": 0
+            },
+            "trimmed": true,
+            "frame":
+            {
+                "w": 21,
+                "x": 25,
+                "h": 20,
+                "y": 46
+            },
+            "sourceSize":
+            {
+                "w": 21,
+                "h": 20
+            },
+            "rotated": false
+        },
+        "water0002":
+        {
+            "spriteSourceSize":
+            {
+                "w": 21,
+                "x": 0,
+                "h": 20,
+                "y": 0
+            },
+            "trimmed": true,
+            "frame":
+            {
+                "w": 21,
+                "x": 48,
+                "h": 20,
+                "y": 46
+            },
+            "sourceSize":
+            {
+                "w": 21,
+                "h": 20
+            },
+            "rotated": false
+        },
+        "grass0004":
+        {
+            "spriteSourceSize":
+            {
+                "w": 20,
+                "x": 0,
+                "h": 20,
+                "y": 0
+            },
+            "trimmed": true,
+            "frame":
+            {
+                "w": 20,
+                "x": 90,
+                "h": 20,
+                "y": 2
+            },
+            "sourceSize":
+            {
+                "w": 20,
+                "h": 20
+            },
+            "rotated": false
+        },
+        "grass0000":
+        {
+            "spriteSourceSize":
+            {
+                "w": 20,
+                "x": 0,
+                "h": 20,
+                "y": 0
+            },
+            "trimmed": true,
+            "frame":
+            {
+                "w": 20,
+                "x": 2,
+                "h": 20,
+                "y": 2
+            },
+            "sourceSize":
+            {
+                "w": 20,
+                "h": 20
+            },
+            "rotated": false
+        },
+        "water0000":
+        {
+            "spriteSourceSize":
+            {
+                "w": 21,
+                "x": 0,
+                "h": 20,
+                "y": 0
+            },
+            "trimmed": true,
+            "frame":
+            {
+                "w": 21,
+                "x": 2,
+                "h": 20,
+                "y": 46
+            },
+            "sourceSize":
+            {
+                "w": 21,
+                "h": 20
+            },
+            "rotated": false
+        },
+        "grass0009":
+        {
+            "spriteSourceSize":
+            {
+                "w": 20,
+                "x": 0,
+                "h": 20,
+                "y": 0
+            },
+            "trimmed": true,
+            "frame":
+            {
+                "w": 20,
+                "x": 90,
+                "h": 20,
+                "y": 24
+            },
+            "sourceSize":
+            {
+                "w": 20,
+                "h": 20
+            },
+            "rotated": false
+        },
+        "grass0002":
+        {
+            "spriteSourceSize":
+            {
+                "w": 20,
+                "x": 0,
+                "h": 20,
+                "y": 0
+            },
+            "trimmed": true,
+            "frame":
+            {
+                "w": 20,
+                "x": 46,
+                "h": 20,
+                "y": 2
+            },
+            "sourceSize":
+            {
+                "w": 20,
+                "h": 20
+            },
+            "rotated": false
+        },
+        "grass0001":
+        {
+            "spriteSourceSize":
+            {
+                "w": 20,
+                "x": 0,
+                "h": 20,
+                "y": 0
+            },
+            "trimmed": true,
+            "frame":
+            {
+                "w": 20,
+                "x": 24,
+                "h": 20,
+                "y": 2
+            },
+            "sourceSize":
+            {
+                "w": 20,
+                "h": 20
+            },
+            "rotated": false
+        },
+        "grass0007":
+        {
+            "spriteSourceSize":
+            {
+                "w": 20,
+                "x": 0,
+                "h": 20,
+                "y": 0
+            },
+            "trimmed": true,
+            "frame":
+            {
+                "w": 20,
+                "x": 46,
+                "h": 20,
+                "y": 24
+            },
+            "sourceSize":
+            {
+                "w": 20,
+                "h": 20
+            },
+            "rotated": false
+        },
+        "grass0006":
+        {
+            "spriteSourceSize":
+            {
+                "w": 20,
+                "x": 0,
+                "h": 20,
+                "y": 0
+            },
+            "trimmed": true,
+            "frame":
+            {
+                "w": 20,
+                "x": 24,
+                "h": 20,
+                "y": 24
+            },
+            "sourceSize":
+            {
+                "w": 20,
+                "h": 20
+            },
+            "rotated": false
+        },
+        "grass0005":
+        {
+            "spriteSourceSize":
+            {
+                "w": 20,
+                "x": 0,
+                "h": 20,
+                "y": 0
+            },
+            "trimmed": true,
+            "frame":
+            {
+                "w": 20,
+                "x": 2,
+                "h": 20,
+                "y": 24
+            },
+            "sourceSize":
+            {
+                "w": 20,
+                "h": 20
+            },
+            "rotated": false
+        },
+        "grass0003":
+        {
+            "spriteSourceSize":
+            {
+                "w": 20,
+                "x": 0,
+                "h": 20,
+                "y": 0
+            },
+            "trimmed": true,
+            "frame":
+            {
+                "w": 20,
+                "x": 68,
+                "h": 20,
+                "y": 2
+            },
+            "sourceSize":
+            {
+                "w": 20,
+                "h": 20
+            },
+            "rotated": false
+        },
+        "grass0008":
+        {
+            "spriteSourceSize":
+            {
+                "w": 20,
+                "x": 0,
+                "h": 20,
+                "y": 0
+            },
+            "trimmed": true,
+            "frame":
+            {
+                "w": 20,
+                "x": 68,
+                "h": 20,
+                "y": 24
+            },
+            "sourceSize":
+            {
+                "w": 20,
+                "h": 20
+            },
+            "rotated": false
+        }
+    }
+}

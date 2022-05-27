@@ -18,8 +18,23 @@ class Man : public GameObject
     
 public:
     using GameObject::GameObject;
-    void update() override;
-
+    
+    int size;
+    int row;
+    int col;
+    std::vector<Man*> movers;
+    bool inRange;
+    bool moved;
+    bool walking;
+    int yonny = 400;
+    
+    /*
+    bool operator==( Man* rhs){
+              if ((this->identifier==rhs->identifier))
+                  return true;
+              return false;
+          }
+    */
 };
 
 #endif /* Man_hpp */

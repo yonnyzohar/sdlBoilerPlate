@@ -9,9 +9,9 @@
 #define Game_hpp
 
 
-#include <SDL2_image/SDL_image.h>
-#include <SDL2/SDL.h>
+#include "SDL_Utils.hpp"
 #include <stdio.h>
+#include <vector>
 #include <string>
 #include "json.h"
 #include "reader.h"
@@ -19,31 +19,50 @@
 #include "TextureManager.hpp"
 #include "GameObject.hpp"
 #include "AtlasObj.hpp"
+#include "Keybaord.hpp"
+#include "JsonHandler.hpp"
+#include "Point3d.hpp"
+#include "Settings.hpp"
+#include "GameObject3d.hpp"
+#include "Polygon.hpp"
+#include "Utilities.hpp"
+#include "Camera3d.hpp"
 
 class Game {
     
 public:
     Game();
     ~Game();
-    void init(const char* title, int xPos, int yPos, int width, int height, bool fulScreen);
+    std::vector<Polygon*> totalPolygons;
+    std::vector<Polygon*> totalPolygonsPreClip;
+    
+    std::vector<GameObject3d*> entities3d;
+    
+    void init(const char* title, int xPos, int yPos, int width, int height, bool fulScreen, int r = 0, int g = 0, int b = 0);
     void handleEvents();
-    virtual void update();
-    void render();
+    virtual void update( int dt);
+    void render(int dt);
     void clean();
     virtual void onloaded();
-    virtual void draw();
+    virtual void draw(int dt);
     bool running(){return  isRunning;}
+    void loadAssetFromDisk(std::string dirName);
+    void parseJsonToMap(Json::Value &data, std::map<std::string,Frame> &frames, int &numZeros);
+    void earlyUpdate();
+    void lateUpdate();
     
-    static SDL_Renderer *renderer;
-    static SDL_Event event;
-    std::map<std::string, AtlasObj> m;
+
+    std::map<std::string, AtlasObj*> assetsMap;
     
+    int r;
+    int g;
+    int b;
+    static Frame Camera;
+    
+
 protected:
     bool isRunning;
-    SDL_Window *window;
     
-    
-    
-    
+
 };
 #endif

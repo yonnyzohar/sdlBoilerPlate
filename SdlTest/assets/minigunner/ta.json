@@ -1,0 +1,4193 @@
+{
+    "meta":
+    {
+        "size":
+        {
+            "w": 350,
+            "h": 1053
+        },
+        "scale": "1",
+        "image": "ta.png",
+        "format": "RGBA8888",
+        "numZeros" : 2
+    },
+    "frames":
+    {
+        "minigunner_die-normal05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 468
+            }
+        },
+        "minigunner_fire_N06":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 195
+            }
+        },
+        "minigunner_run_SE01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 117
+            }
+        },
+        "minigunner_die-fire06":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 546
+            }
+        },
+        "minigunner_fire_S01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 390
+            }
+        },
+        "minigunner_fire_NE06":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 936
+            }
+        },
+        "minigunner_die-fire05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 507
+            }
+        },
+        "minigunner_die-fire15":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 897
+            }
+        },
+        "minigunner_run_W02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 300,
+                "h": 39,
+                "y": 273
+            }
+        },
+        "minigunner_fire_N05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 156
+            }
+        },
+        "minigunner_die-frag04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 546
+            }
+        },
+        "minigunner_run_SW04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 195
+            }
+        },
+        "minigunner_fire_NE01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 741
+            }
+        },
+        "minigunner_run_N02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 351
+            }
+        },
+        "minigunner_fire_NW05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 780
+            }
+        },
+        "minigunner_run_NW00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 819
+            }
+        },
+        "minigunner_run_SE03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 195
+            }
+        },
+        "minigunner_die-frag06":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 624
+            }
+        },
+        "minigunner_run_SE05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 273
+            }
+        },
+        "minigunner_fire_N07":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 234
+            }
+        },
+        "minigunner_run_E05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 39
+            }
+        },
+        "minigunner_stand_W00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 897
+            }
+        },
+        "minigunner_fireW07":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 300,
+                "h": 39,
+                "y": 156
+            }
+        },
+        "minigunner_run_S05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 195
+            }
+        },
+        "minigunner_fire_NW03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 702
+            }
+        },
+        "minigunner_run_S03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 117
+            }
+        },
+        "minigunner_fire_SW05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 234
+            }
+        },
+        "minigunner_run_W01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 300,
+                "h": 39,
+                "y": 234
+            }
+        },
+        "minigunner_fire_SE06":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 819
+            }
+        },
+        "minigunner_die-normal06":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 507
+            }
+        },
+        "minigunner_die-normal02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 351
+            }
+        },
+        "minigunner_run_S01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 39
+            }
+        },
+        "minigunner_run_NW03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 936
+            }
+        },
+        "minigunner_die-normal03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 390
+            }
+        },
+        "minigunner_die-fire11":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 741
+            }
+        },
+        "minigunner_fire_S03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 468
+            }
+        },
+        "minigunner_run_W00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 300,
+                "h": 39,
+                "y": 195
+            }
+        },
+        "minigunner_stand_S00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 1014
+            }
+        },
+        "minigunner_run_SE02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 156
+            }
+        },
+        "minigunner_die-fire10":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 702
+            }
+        },
+        "minigunner_die-fire07":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 585
+            }
+        },
+        "minigunner_stand_N00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            }
+        },
+        "minigunner_run_NW04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 975
+            }
+        },
+        "minigunner_fire_S02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 429
+            }
+        },
+        "minigunner_die-frag01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 429
+            }
+        },
+        "minigunner_fire_N01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 0
+            }
+        },
+        "minigunner_fire_SW00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 39
+            }
+        },
+        "minigunner_die-explode-close05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 858
+            }
+        },
+        "minigunner_fire_NW01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 624
+            }
+        },
+        "minigunner_die-explode-close02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 741
+            }
+        },
+        "minigunner_die-fire13":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 819
+            }
+        },
+        "minigunner_fire_NW00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 585
+            }
+        },
+        "minigunner_die-fire02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 390
+            }
+        },
+        "minigunner_die-fire16":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 936
+            }
+        },
+        "minigunner_die-frag03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 507
+            }
+        },
+        "minigunner_die-explode-far05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 117
+            }
+        },
+        "minigunner_fire_N02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 39
+            }
+        },
+        "minigunner_fire_NE05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 897
+            }
+        },
+        "minigunner_die-fire12":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 780
+            }
+        },
+        "minigunner_fire_SE03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 702
+            }
+        },
+        "minigunner_fire_NE04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 858
+            }
+        },
+        "minigunner_die-normal07":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 546
+            }
+        },
+        "minigunner_fire_NE03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 819
+            }
+        },
+        "minigunner_fireW02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 1014
+            }
+        },
+        "minigunner_fire_SW06":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 273
+            }
+        },
+        "minigunner_die-normal04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 429
+            }
+        },
+        "minigunner_stand_NE00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 273
+            }
+        },
+        "minigunner_run_NE02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 429
+            }
+        },
+        "minigunner_fireW05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 300,
+                "h": 39,
+                "y": 78
+            }
+        },
+        "minigunner_run_E03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 1014
+            }
+        },
+        "minigunner_die-normal01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 312
+            }
+        },
+        "minigunner_fireW01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 975
+            }
+        },
+        "minigunner_fire_S04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 507
+            }
+        },
+        "minigunner_fire_NW04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 741
+            }
+        },
+        "minigunner_die-fire08":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 624
+            }
+        },
+        "minigunner_run_S00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 0
+            }
+        },
+        "minigunner_die-explode-close06":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 897
+            }
+        },
+        "minigunner_die-frag00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 390
+            }
+        },
+        "minigunner_stand_SW00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 234
+            }
+        },
+        "minigunner_run_W04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 300,
+                "h": 39,
+                "y": 351
+            }
+        },
+        "minigunner_run_N04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 429
+            }
+        },
+        "minigunner_fire_NW06":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 819
+            }
+        },
+        "minigunner_run_SW03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 156
+            }
+        },
+        "minigunner_die-frag02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 468
+            }
+        },
+        "minigunner_run_S04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 156
+            }
+        },
+        "minigunner_die-explode-close00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 663
+            }
+        },
+        "minigunner_fire_S05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 546
+            }
+        },
+        "minigunner_run_E02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 975
+            }
+        },
+        "minigunner_run_SE04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 234
+            }
+        },
+        "minigunner_fire_SW03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 156
+            }
+        },
+        "minigunner_die-fire00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 312
+            }
+        },
+        "minigunner_fire_E01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 546
+            }
+        },
+        "minigunner_die-fire17":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 975
+            }
+        },
+        "minigunner_run_S02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 78
+            }
+        },
+        "minigunner_fire_SE02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 663
+            }
+        },
+        "minigunner_die-fire03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 429
+            }
+        },
+        "minigunner_fire_E07":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 780
+            }
+        },
+        "minigunner_stand_E00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 0
+            }
+        },
+        "minigunner_die-explode-far08":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 234
+            }
+        },
+        "minigunner_fire_SE05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 780
+            }
+        },
+        "minigunner_fireW04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 300,
+                "h": 39,
+                "y": 39
+            }
+        },
+        "minigunner_die-explode-far09":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 273
+            }
+        },
+        "minigunner_fire_SW04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 195
+            }
+        },
+        "minigunner_run_SW05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 234
+            }
+        },
+        "minigunner_fire_NW07":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 858
+            }
+        },
+        "minigunner_fire_NE02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 780
+            }
+        },
+        "minigunner_fire_E00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 507
+            }
+        },
+        "minigunner_die-frag07":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 663
+            }
+        },
+        "minigunner_run_NE05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 546
+            }
+        },
+        "minigunner_fire_E06":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 741
+            }
+        },
+        "minigunner_run_SW01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 78
+            }
+        },
+        "minigunner_die-normal00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 273
+            }
+        },
+        "minigunner_die-explode-far00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 975
+            }
+        },
+        "minigunner_fire_E02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 585
+            }
+        },
+        "minigunner_fire_N03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 78
+            }
+        },
+        "minigunner_die-fire04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 468
+            }
+        },
+        "minigunner_die-explode-close01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 702
+            }
+        },
+        "minigunner_fire_SW02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 117
+            }
+        },
+        "minigunner_fire_NW02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 663
+            }
+        },
+        "minigunner_stand_NW00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 312
+            }
+        },
+        "minigunner_fire_SE00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 585
+            }
+        },
+        "minigunner_fire_NE00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 702
+            }
+        },
+        "minigunner_run_NE00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 351
+            }
+        },
+        "minigunner_fireW03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 300,
+                "h": 39,
+                "y": 0
+            }
+        },
+        "minigunner_run_NW05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 1014
+            }
+        },
+        "minigunner_die-fire09":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 663
+            }
+        },
+        "minigunner_die-fire01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 351
+            }
+        },
+        "minigunner_die-explode-far04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 78
+            }
+        },
+        "minigunner_fire_SW01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 78
+            }
+        },
+        "minigunner_stand_SE00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 300,
+                "h": 39,
+                "y": 429
+            }
+        },
+        "minigunner_die-explode-far02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 0
+            }
+        },
+        "minigunner_fire_SW07":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 312
+            }
+        },
+        "minigunner_fire_N04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 117
+            }
+        },
+        "minigunner_fire_SE04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 741
+            }
+        },
+        "minigunner_run_NE03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 468
+            }
+        },
+        "minigunner_run_E04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 0
+            }
+        },
+        "minigunner_run_W05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 300,
+                "h": 39,
+                "y": 390
+            }
+        },
+        "minigunner_die-explode-far10":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 312
+            }
+        },
+        "minigunner_fireW06":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 300,
+                "h": 39,
+                "y": 117
+            }
+        },
+        "minigunner_fire_S07":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 624
+            }
+        },
+        "minigunner_run_SE00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 78
+            }
+        },
+        "minigunner_fire_S06":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 585
+            }
+        },
+        "minigunner_die-explode-close03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 780
+            }
+        },
+        "minigunner_die-explode-close07":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 936
+            }
+        },
+        "minigunner_fireW00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 936
+            }
+        },
+        "minigunner_run_N01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 312
+            }
+        },
+        "minigunner_die-explode-far01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 1014
+            }
+        },
+        "minigunner_run_NW02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 897
+            }
+        },
+        "minigunner_fire_S00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 351
+            }
+        },
+        "minigunner_fire_E05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 702
+            }
+        },
+        "minigunner_die-fire14":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 858
+            }
+        },
+        "minigunner_die-explode-far07":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 195
+            }
+        },
+        "minigunner_fire_SE01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 624
+            }
+        },
+        "minigunner_run_N05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 468
+            }
+        },
+        "minigunner_die-frag05":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 585
+            }
+        },
+        "minigunner_die-explode-far11":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 351
+            }
+        },
+        "minigunner_run_E00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 897
+            }
+        },
+        "minigunner_run_NE01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 390
+            }
+        },
+        "minigunner_run_N00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 273
+            }
+        },
+        "minigunner_run_W03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 300,
+                "h": 39,
+                "y": 312
+            }
+        },
+        "minigunner_run_E01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 936
+            }
+        },
+        "minigunner_fire_N00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 50,
+                "h": 39,
+                "y": 1014
+            }
+        },
+        "minigunner_fire_SE07":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 858
+            }
+        },
+        "minigunner_fire_NE07":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 975
+            }
+        },
+        "minigunner_fire_E04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 663
+            }
+        },
+        "minigunner_run_SW02":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 117
+            }
+        },
+        "minigunner_run_NE04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 507
+            }
+        },
+        "minigunner_die-explode-far06":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 156
+            }
+        },
+        "minigunner_die-explode-close04":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 150,
+                "h": 39,
+                "y": 819
+            }
+        },
+        "minigunner_die-explode-far03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 200,
+                "h": 39,
+                "y": 39
+            }
+        },
+        "minigunner_run_NW01":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 858
+            }
+        },
+        "minigunner_fire_E03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 624
+            }
+        },
+        "minigunner_run_SW00":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 250,
+                "h": 39,
+                "y": 39
+            }
+        },
+        "minigunner_run_N03":
+        {
+            "sourceSize":
+            {
+                "w": 50,
+                "h": 39
+            },
+            "spriteSourceSize":
+            {
+                "w": 50,
+                "x": 0,
+                "h": 39,
+                "y": 0
+            },
+            "trimmed": true,
+            "rotated": false,
+            "frame":
+            {
+                "w": 50,
+                "x": 100,
+                "h": 39,
+                "y": 390
+            }
+        }
+    }
+}

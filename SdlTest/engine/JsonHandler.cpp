@@ -7,18 +7,12 @@
 
 #include "JsonHandler.hpp"
 
-void JsonHandler::loadJson(const char* src, Json::Value *data)
+void JsonHandler::loadJson(std::string src, Json::Value *data)
 {
     std::ifstream file(src);
     Json::Reader reader;
     bool success = reader.parse(file, *data);
-    if(success)
-    {
-        bool h = 1;
-    }
-    else
-    {
-        bool b = 1;
-    }
+    
 
 }
+
