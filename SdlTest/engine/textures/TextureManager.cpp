@@ -4,7 +4,7 @@
 //
 //  Created by Yonni Zohar on 24/12/2021.
 //
-#include "../SDL_Utils.hpp"
+#include "SDL_Utils.hpp"
 #include "TextureManager.hpp"
 
 

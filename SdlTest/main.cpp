@@ -5,12 +5,12 @@
 //  Created by Yonni Zohar on 23/12/2021.
 ///Library/Frameworks/SDL2.framework/Versions/A/Headers/
 
-#include "MyGame.hpp"
+//#include "MyGame.hpp"
 #include "BattleZone.hpp"
 #include <iostream>
 
 
-
+//MyGame *game  = nullptr;
 BattleZone *game = nullptr;
 
 //setting up basis sdl window

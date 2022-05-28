@@ -3,12 +3,13 @@
 
 SDL_Renderer *SDL_Utils::renderer = nullptr;
 SDL_Window *SDL_Utils::window = nullptr;
-SDL_Rect *SDL_Utils::cam = nullptr;
+SDL_Rect *SDL_Utils::cam = new SDL_Rect();
 SDL_Event SDL_Utils::event;
 SDL_Surface * SDL_Utils::gScreenSurface = nullptr;
+bool Game::useGPU = false;
 Frame Game::Camera;
 
-bool useGPU = false;
+
 
 Game::Game()
 {
@@ -122,7 +123,6 @@ void Game::earlyUpdate()
             /* */
         }
     }
-    int a = 1;
     
     
     /**/

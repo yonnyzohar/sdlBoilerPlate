@@ -35,7 +35,7 @@ public:
     ~Game();
     std::vector<Polygon*> totalPolygons;
     std::vector<Polygon*> totalPolygonsPreClip;
-    
+    static bool useGPU;
     std::vector<GameObject3d*> entities3d;
     
     void init(const char* title, int xPos, int yPos, int width, int height, bool fulScreen, int r = 0, int g = 0, int b = 0);

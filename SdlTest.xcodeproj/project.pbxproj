@@ -151,6 +151,55 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		408D4424284296AA00EB3D8E /* 3d */ = {
+			isa = PBXGroup;
+			children = (
+				40EC5A3E27DD183000AD5065 /* Point3d.hpp */,
+				40EC5A4427DD20C400AD5065 /* GameObject3d.cpp */,
+				40EC5A4527DD20C400AD5065 /* GameObject3d.hpp */,
+				40EC5A4A27DD242D00AD5065 /* Polygon.cpp */,
+				40EC5A4B27DD242D00AD5065 /* Polygon.hpp */,
+				40AD286727DD620700822C18 /* Camera3d.cpp */,
+				40AD286827DD620700822C18 /* Camera3d.hpp */,
+			);
+			path = 3d;
+			sourceTree = "<group>";
+		};
+		408D4425284296B000EB3D8E /* 2d */ = {
+			isa = PBXGroup;
+			children = (
+				40DDAD5C2775B918009654E8 /* GameObject.cpp */,
+				40DDAD5D2775B918009654E8 /* GameObject.hpp */,
+				408D4421284164EA00EB3D8E /* Camera2d.cpp */,
+				408D4422284164EA00EB3D8E /* Camera2d.hpp */,
+			);
+			path = 2d;
+			sourceTree = "<group>";
+		};
+		408D4426284296EA00EB3D8E /* utils */ = {
+			isa = PBXGroup;
+			children = (
+				40DDAD622775DA81009654E8 /* JsonHandler.cpp */,
+				40DDAD632775DA81009654E8 /* JsonHandler.hpp */,
+				40DDADB82777A4D1009654E8 /* Utilities.cpp */,
+				40DDADB92777A4D1009654E8 /* Utilities.hpp */,
+				408D441E2841630100EB3D8E /* SDL_Utils.cpp */,
+				408D441F2841630100EB3D8E /* SDL_Utils.hpp */,
+			);
+			path = utils;
+			sourceTree = "<group>";
+		};
+		408D44272842978E00EB3D8E /* crowd */ = {
+			isa = PBXGroup;
+			children = (
+				40DDAD5F2775BC01009654E8 /* MyGame.cpp */,
+				40DDAD602775BC01009654E8 /* MyGame.hpp */,
+				40DDADB52776068C009654E8 /* Man.cpp */,
+				40DDADB62776068C009654E8 /* Man.hpp */,
+			);
+			path = crowd;
+			sourceTree = "<group>";
+		};
 		408F1B0A2774FF3F0027ADC0 = {
 			isa = PBXGroup;
 			children = (
@@ -171,16 +220,13 @@
 		408F1B152774FF3F0027ADC0 /* SdlTest */ = {
 			isa = PBXGroup;
 			children = (
-				40EC5A4027DD18F000AD5065 /* game */,
+				408D44272842978E00EB3D8E /* crowd */,
+				40EC5A4027DD18F000AD5065 /* battleZone */,
 				40DDADB427760637009654E8 /* engine */,
 				40DDADAF2775EEDE009654E8 /* json */,
 				40DDAD1D2775216E009654E8 /* assets */,
 				40FEB4D4277510A700594C10 /* SdlTest.entitlements */,
 				408F1B162774FF3F0027ADC0 /* main.cpp */,
-				40DDAD5F2775BC01009654E8 /* MyGame.cpp */,
-				40DDAD602775BC01009654E8 /* MyGame.hpp */,
-				40DDADB52776068C009654E8 /* Man.cpp */,
-				40DDADB62776068C009654E8 /* Man.hpp */,
 			);
 			path = SdlTest;
 			sourceTree = "<group>";
@@ -240,34 +286,20 @@
 		40DDADB427760637009654E8 /* engine */ = {
 			isa = PBXGroup;
 			children = (
+				408D4426284296EA00EB3D8E /* utils */,
+				408D4425284296B000EB3D8E /* 2d */,
+				408D4424284296AA00EB3D8E /* 3d */,
 				40EC5A5027DD59F700AD5065 /* keyboard */,
 				40EC5A4F27DD59C700AD5065 /* textures */,
 				40EC5A4227DD191C00AD5065 /* Settings.hpp */,
 				40EC5A4D27DD314F00AD5065 /* Settings.cpp */,
 				40DDAD1827751882009654E8 /* Game.cpp */,
 				40DDAD1927751882009654E8 /* Game.hpp */,
-				40DDAD5C2775B918009654E8 /* GameObject.cpp */,
-				40DDAD5D2775B918009654E8 /* GameObject.hpp */,
-				40DDAD622775DA81009654E8 /* JsonHandler.cpp */,
-				40DDAD632775DA81009654E8 /* JsonHandler.hpp */,
-				40DDADB82777A4D1009654E8 /* Utilities.cpp */,
-				40DDADB92777A4D1009654E8 /* Utilities.hpp */,
-				40EC5A3E27DD183000AD5065 /* Point3d.hpp */,
-				40EC5A4427DD20C400AD5065 /* GameObject3d.cpp */,
-				40EC5A4527DD20C400AD5065 /* GameObject3d.hpp */,
-				40EC5A4A27DD242D00AD5065 /* Polygon.cpp */,
-				40EC5A4B27DD242D00AD5065 /* Polygon.hpp */,
-				40AD286727DD620700822C18 /* Camera3d.cpp */,
-				40AD286827DD620700822C18 /* Camera3d.hpp */,
-				408D441E2841630100EB3D8E /* SDL_Utils.cpp */,
-				408D441F2841630100EB3D8E /* SDL_Utils.hpp */,
-				408D4421284164EA00EB3D8E /* Camera2d.cpp */,
-				408D4422284164EA00EB3D8E /* Camera2d.hpp */,
 			);
 			path = engine;
 			sourceTree = "<group>";
 		};
-		40EC5A4027DD18F000AD5065 /* game */ = {
+		40EC5A4027DD18F000AD5065 /* battleZone */ = {
 			isa = PBXGroup;
 			children = (
 				40EC5A3727DC027600AD5065 /* BattleZone.cpp */,
@@ -277,7 +309,7 @@
 				40EC5A4727DD21DB00AD5065 /* Cube.cpp */,
 				40EC5A4827DD21DB00AD5065 /* Cube.hpp */,
 			);
-			path = game;
+			path = battleZone;
 			sourceTree = "<group>";
 		};
 		40EC5A4F27DD59C700AD5065 /* textures */ = {
